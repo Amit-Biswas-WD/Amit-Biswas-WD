@@ -1,4 +1,4 @@
-<img src="https://reactjs.org/logo-og.png" alt="React Logo" />
+<img src="https://i.ibb.co/47HHQzz/Blue-Minimalist-Personal-Branding-Youtube-Banner.png" alt="React Logo" />
 
 
 
