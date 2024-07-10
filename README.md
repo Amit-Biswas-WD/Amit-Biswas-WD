@@ -14,6 +14,7 @@ My Name is Amit Biswas. I am a Wev Developer.
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-css-sky" />
   <img alt="JavaScript" src="https://img.shields.io/badge/Java-Script-yellow" />
   <img alt="React" src="https://img.shields.io/badge/react-skyblue" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-blue" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img className="w-10" alt="html" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
