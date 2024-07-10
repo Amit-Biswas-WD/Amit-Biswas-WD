@@ -1,4 +1,4 @@
-<img class="w-skin" src="https://i.ibb.co/SXbxg3k/Blue-Minimalist-Personal-Branding-Youtube-Banner.jpg" alt="React Logo" />
+<img className="w-skin" src="https://i.ibb.co/SXbxg3k/Blue-Minimalist-Personal-Branding-Youtube-Banner.jpg" alt="React Logo" />
 
 
 
