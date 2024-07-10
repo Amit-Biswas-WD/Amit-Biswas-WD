@@ -1,4 +1,4 @@
-<img class="w-full" src="https://i.ibb.co/47HHQzz/Blue-Minimalist-Personal-Branding-Youtube-Banner.png" alt="React Logo" />
+<img class="w-full" src="https://i.ibb.co/zQ7Cc2L/banner.jpg" alt="React Logo" />
 
 
 
