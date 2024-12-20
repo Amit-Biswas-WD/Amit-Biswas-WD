@@ -1,6 +1,6 @@
 
 
-My Name is Amit Biswas. I am a Wev Developer.
+My Name is Amit Biswas. I am a Web Developer.
 
 
 
