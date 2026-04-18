@@ -32,6 +32,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 ```bash
 ✔ Frontend: HTML5 | CSS3 | JavaScript (ES6) | TypeScript
 ✔ Frameworks: React.js | Next.js
