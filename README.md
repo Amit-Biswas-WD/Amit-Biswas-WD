@@ -17,7 +17,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 💡 I am a passionate **Frontend & Full Stack Developer**  
 🚀 I build modern, fast & scalable web applications  
@@ -26,7 +26,7 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,nodejs,express,mongodb" />
@@ -34,74 +34,77 @@
 
 ---
 
-# 🧰 Tools I Use
+## 🧰 Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,figma" />
 </p>
 
----
+-----------------
 
-# 📊 GitHub Dashboard
+-----------------
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amitbiswas9282&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbiswas9282&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amitbiswas9282&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Amit-Biswas-WD&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
-
-## 🔹 Project 1 – Your App Name
-🚀 Tech: React, Tailwind, Node  
-🔗 Live: https://your-live-link.com  
-📂 Repo: https://github.com/your-repo  
-
----
-
-## 🔹 Project 2 – Your App Name
-💡 Tech: Next.js, MongoDB  
-🔗 Live: https://your-live-link.com  
-📂 Repo: https://github.com/your-repo  
-
----
-
-## 🔹 Project 3 – Your App Name
-🌐 Tech: MERN Stack  
-🔗 Live: https://your-live-link.com  
-📂 Repo: https://github.com/your-repo  
-
----
-
-# 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitbiswas9282&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Biswas-WD&theme=tokyo-night&area=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitbiswas9282&theme=algolia&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit-Biswas-WD&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 📫 Contact Me
+## 🌐 Connect With Me
 
-📧 Email: amitbiswas9282@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/amit-biswas-web/
+<p align="center">
+<a href="mailto:amitbiswas9282@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a> • 
+  <a href="https://www.linkedin.com/in/amit-biswas-web">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
-<!-- 🔥 FOOTER -->
+## 🚀 Featured Projects
+
+### 🔹 Project 1
+- ⚡ Modern React App  
+- 🔗 Live Demo | GitHub Repo  
+
+### 🔹 Project 2
+- 💡 Full Stack MERN App  
+- 🔗 Live Demo | GitHub Repo  
+
+### 🔹 Project 3
+- 🌐 Next.js Project  
+- 🔗 Live Demo | GitHub Repo  
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amit-Biswas-WD&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<!-- 🔥 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+
