@@ -40,6 +40,7 @@
 ✔ Backend: Node.js | Express.js
 ✔ Database: MongoDB | Mongoose
 ✔ Auth & Security: JWT (JSON Web Token)
+````
 
 ---
 
