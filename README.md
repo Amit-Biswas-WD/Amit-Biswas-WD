@@ -61,7 +61,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1jsvAFVLK2tEjZaq0xozmk3OjYLEqAgEA/view?usp=sharing" />
+  <img src="https://drive.google.com/uc?export=view&id=1jsvAFVLK2tEjZaq0xozmk3OjYLEqAgEA" />
 </p>
 
 ---
