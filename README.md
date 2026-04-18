@@ -71,7 +71,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:amitbiswas9282@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a> • 
+<a href="mailto:amitbiswas9282@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a> 
   <a href="https://www.linkedin.com/in/amit-biswas-web">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
