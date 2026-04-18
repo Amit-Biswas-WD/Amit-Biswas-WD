@@ -42,8 +42,6 @@
 
 -----------------
 
------------------
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -63,7 +61,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amit-Biswas-WD&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://drive.google.com/file/d/1jsvAFVLK2tEjZaq0xozmk3OjYLEqAgEA/view?usp=sharing" />
 </p>
 
 ---
@@ -71,7 +69,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:amitbiswas9282@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a> 
+<a href="mailto:amitbiswas9282@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /></a> • 
   <a href="https://www.linkedin.com/in/amit-biswas-web">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
