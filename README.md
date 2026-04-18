@@ -29,8 +29,17 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb&theme=dark" />
 </p>
+
+```bash
+✔ Frontend: HTML5 | CSS3 | JavaScript (ES6) | TypeScript
+✔ Frameworks: React.js | Next.js
+✔ Styling: Tailwind CSS | shadcn/ui
+✔ State Management: Redux Toolkit
+✔ Backend: Node.js | Express.js
+✔ Database: MongoDB | Mongoose
+✔ Auth & Security: JWT (JSON Web Token)
 
 ---
 
