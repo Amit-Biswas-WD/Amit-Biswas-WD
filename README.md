@@ -61,7 +61,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1jsvAFVLK2tEjZaq0xozmk3OjYLEqAgEA" />
+  <img src="https://i.ibb.co.com/rRGSvFj2/certificate-student.png" width="500"/>
 </p>
 
 ---
