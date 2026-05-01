@@ -67,7 +67,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Biswas-WD&theme=tokyo-night&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Biswas-WD&theme=tokyo-night&area=true&cache_seconds=1" />
 </p>   
 
 ---
