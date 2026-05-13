@@ -93,9 +93,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Project 1
-- ⚡ Modern React App  
-- 🔗 Live Demo | GitHub Repo  
+### 🔹 Tira Beauty
+- ⚡ Modern E-commerce Web Application
+- 🛠️ Tech Stack: Next.js, TypeScript, Tailwind CSS
+- 🌐 [Live Site](https://tirabeauty-alpha.vercel.app)
+- 💻 [Source Code](https://github.com/Amit-Biswas-WD/tirabeauty_frontend.git)
 
 ### 🔹 Project 2
 - 💡 Full Stack MERN App  
