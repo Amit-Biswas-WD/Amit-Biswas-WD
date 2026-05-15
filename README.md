@@ -103,10 +103,6 @@
 - 💡 Full Stack MERN App  
 - 🔗 Live Demo | GitHub Repo  
 
-### 🔹 Project 3
-- 🌐 Next.js Project  
-- 🔗 Live Demo | GitHub Repo  
-
 ---
 
 ## 👀 Profile Views
