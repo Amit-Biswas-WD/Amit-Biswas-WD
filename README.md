@@ -93,11 +93,42 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Tira Beauty
+### 🔹 Tira Beauty — Full Stack E-commerce Platform
+
+A modern and scalable full-stack e-commerce application designed for beauty and cosmetic products. The platform delivers a seamless shopping experience with secure authentication, product discovery, cart management, order processing, and payment integration. Built with industry-standard technologies and clean architecture principles to ensure performance, maintainability, and scalability.
+
+### 🌐 Frontend
+
 - ⚡ Modern E-commerce Web Application
-- 🛠️ Tech Stack: Next.js, TypeScript, Tailwind CSS
+- 🎨 Responsive & User-Friendly UI/UX
+- 🛠️ Tech Stack: Next.js, React.js, TypeScript, Tailwind CSS
+- 🔥 Optimized Performance & SEO-Friendly Architecture
 - 🌐 [Live Site](https://tirabeauty-alpha.vercel.app)
 - 💻 [Source Code](https://github.com/Amit-Biswas-WD/tirabeauty_frontend.git)
+
+### 🔧 Backend
+
+- ⚡ Scalable RESTful API
+- 🔐 JWT Authentication & Refresh Token System
+- 👤 Role-Based Authorization
+- 🛍️ Product, Cart & Order Management
+- 💳 Payment Integration
+- ☁️ Cloudinary Image Upload
+- ✅ Zod Validation & Centralized Error Handling
+- 🛠️ Tech Stack: Node.js, Express.js, TypeScript, MongoDB, Mongoose
+- 💻 [Source Code](https://github.com/Amit-Biswas-WD/tirabeauty-backend)
+
+### 🚀 Key Features
+
+- Secure User Authentication
+- Product Management System
+- Shopping Cart Functionality
+- Order Processing Workflow
+- Payment Gateway Integration
+- Responsive Design
+- Production-Ready Architecture
+- Clean & Maintainable Codebase
+
 
 ### 🔹 Project 2
 - 💡 Full Stack MERN App  
